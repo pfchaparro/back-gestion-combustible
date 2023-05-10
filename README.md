@@ -158,10 +158,4 @@ Más información:
 [tecnonucleous](https://tecnonucleous.com/2018/03/28/usar-pm2-para-mantener-el-bot-de-telegram-encendido/)
 
 
-## Autores ✒️
-
-* **Pablo Chaparro** - *Desarrolador* - [pfchaparro](https://github.com/pfchaparro)
-* **Jorge Ramirez** - *Desarrolador* - [ingsistemasco](https://github.com/ingsistemasco)
-
----
 ⌨️ con ❤️ por [Primer Tax](https://www.primertaxsa.com/) 😊
